@@ -1,0 +1,38 @@
+name: Fetch Kroger Prices
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'   # Every Sunday at 6am UTC
+  workflow_dispatch:        # Allow manual trigger from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch prices from Kroger API
+        env:
+          KROGER_CLIENT_ID: ${{ secrets.KROGER_CLIENT_ID }}
+          KROGER_CLIENT_SECRET: ${{ secrets.KROGER_CLIENT_SECRET }}
+        run: python fetch_prices.py
+
+      - name: Commit updated prices
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add prices_us.json
+          git diff --staged --quiet || git commit -m "chore: update prices from Kroger API [$(date -u +%Y-%m-%d)]"
+          git push
