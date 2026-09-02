@@ -357,7 +357,7 @@
     "city": null,
     "source": "usda",
     "updatedAt": 1735689600000,
-    "densityGPerCup": null
+    "densityGPerCup": 148
   },
   {
     "id": "grape-us",
