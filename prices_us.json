@@ -741,7 +741,7 @@
     "city": null,
     "source": "bls",
     "updatedAt": 1735689600000,
-    "densityGPerCup": null
+    "densityGPerCup": 192.0
   },
   {
     "id": "baking-soda-us",
@@ -1629,7 +1629,7 @@
     "city": null,
     "source": "bls",
     "updatedAt": 1735689600000,
-    "densityGPerCup": null
+    "densityGPerCup": 243.0
   },
   {
     "id": "cocoa-powder-us",
@@ -3634,5 +3634,225 @@
     "source": "kroger",
     "updatedAt": 1735689600000,
     "densityGPerCup": null
+  },
+  {
+    "id": "lumpia-wrapper-us",
+    "name": "lumpia wrapper",
+    "countryCode": "US",
+    "priceUsd": 2.49,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "coconut-cream-us",
+    "name": "coconut cream",
+    "countryCode": "US",
+    "priceUsd": 2.29,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "english-muffin-us",
+    "name": "english muffin",
+    "countryCode": "US",
+    "priceUsd": 3.49,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "hot-dog-us",
+    "name": "hot dog",
+    "countryCode": "US",
+    "priceUsd": 3.99,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "meat"
+  },
+  {
+    "id": "spaghetti-us",
+    "name": "spaghetti",
+    "countryCode": "US",
+    "priceUsd": 1.5,
+    "priceUnit": "lb",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "chili-paste-us",
+    "name": "chili paste",
+    "countryCode": "US",
+    "priceUsd": 3.49,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "sauce"
+  },
+  {
+    "id": "nutella-us",
+    "name": "nutella",
+    "countryCode": "US",
+    "priceUsd": 4.99,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "lumpia-wrappers-us",
+    "name": "lumpia wrappers",
+    "countryCode": "US",
+    "priceUsd": 2.49,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "okra-us",
+    "name": "okra",
+    "countryCode": "US",
+    "priceUsd": 1.99,
+    "priceUnit": "lb",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "produce"
+  },
+  {
+    "id": "pork-rinds-us",
+    "name": "pork rinds",
+    "countryCode": "US",
+    "priceUsd": 3.49,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "chili-oil-us",
+    "name": "chili oil",
+    "countryCode": "US",
+    "priceUsd": 4.99,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "sauce"
+  },
+  {
+    "id": "shortening-us",
+    "name": "shortening",
+    "countryCode": "US",
+    "priceUsd": 5.49,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": 218.0,
+    "category": "pantry"
+  },
+  {
+    "id": "lard-us",
+    "name": "lard",
+    "countryCode": "US",
+    "priceUsd": 4.99,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": 218.0,
+    "category": "pantry"
+  },
+  {
+    "id": "canned-jackfruit-us",
+    "name": "canned jackfruit",
+    "countryCode": "US",
+    "priceUsd": 2.49,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "produce"
+  },
+  {
+    "id": "cereal-us",
+    "name": "cereal",
+    "countryCode": "US",
+    "priceUsd": 3.99,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": 28.0,
+    "category": "pantry"
+  },
+  {
+    "id": "jalapeno-pepper-us",
+    "name": "jalapeno pepper",
+    "countryCode": "US",
+    "priceUsd": 0.89,
+    "priceUnit": "lb",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "produce"
+  },
+  {
+    "id": "chili-pepper-us",
+    "name": "chili pepper",
+    "countryCode": "US",
+    "priceUsd": 0.89,
+    "priceUnit": "lb",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "produce"
+  },
+  {
+    "id": "lime-juice-us",
+    "name": "lime juice",
+    "countryCode": "US",
+    "priceUsd": 2.99,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "lemon-juice-us",
+    "name": "lemon juice",
+    "countryCode": "US",
+    "priceUsd": 2.99,
+    "priceUnit": "each",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null,
+    "category": "pantry"
+  },
+  {
+    "id": "tapioca-pearls-us",
+    "name": "tapioca pearls",
+    "countryCode": "US",
+    "priceUsd": 2.49,
+    "priceUnit": "lb",
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": 160,
+    "category": "pantry"
   }
 ]
