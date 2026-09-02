@@ -3538,5 +3538,101 @@
     "source": "bls",
     "updatedAt": 1735689600000,
     "densityGPerCup": null
+  },
+  {
+    "id": "pork-loin-us",
+    "name": "pork loin",
+    "category": "meat",
+    "priceUsd": 3.99,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
+  },
+  {
+    "id": "pork-tenderloin-us",
+    "name": "pork tenderloin",
+    "category": "meat",
+    "priceUsd": 4.99,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
+  },
+  {
+    "id": "pork-shoulder-us",
+    "name": "pork shoulder",
+    "category": "meat",
+    "priceUsd": 2.49,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
+  },
+  {
+    "id": "beef-bones-us",
+    "name": "beef bones",
+    "category": "meat",
+    "priceUsd": 3.99,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
+  },
+  {
+    "id": "beef-shank-us",
+    "name": "beef shank",
+    "category": "meat",
+    "priceUsd": 4.99,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
+  },
+  {
+    "id": "lamb-chop-us",
+    "name": "lamb chop",
+    "category": "meat",
+    "priceUsd": 9.99,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
+  },
+  {
+    "id": "lamb-shoulder-us",
+    "name": "lamb shoulder",
+    "category": "meat",
+    "priceUsd": 7.99,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
+  },
+  {
+    "id": "duck-breast-us",
+    "name": "duck breast",
+    "category": "meat",
+    "priceUsd": 8.99,
+    "priceUnit": "lb",
+    "countryCode": "US",
+    "city": null,
+    "source": "kroger",
+    "updatedAt": 1735689600000,
+    "densityGPerCup": null
   }
 ]
