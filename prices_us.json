@@ -8,7 +8,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141833486,
+    "updatedAt": 1794749118810,
     "densityGPerCup": null
   },
   {
@@ -20,7 +20,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141834438,
+    "updatedAt": 1794749119953,
     "densityGPerCup": null
   },
   {
@@ -32,7 +32,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141835560,
+    "updatedAt": 1794749121237,
     "densityGPerCup": null
   },
   {
@@ -44,19 +44,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141836533,
+    "updatedAt": 1794749122230,
     "densityGPerCup": null
   },
   {
     "id": "ground-beef-us",
     "name": "ground beef",
     "category": "meat",
-    "priceUsd": 7.99,
+    "priceUsd": 12,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141837579,
+    "updatedAt": 1794749123428,
     "densityGPerCup": null
   },
   {
@@ -68,7 +68,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141838545,
+    "updatedAt": 1794749124497,
     "densityGPerCup": null
   },
   {
@@ -80,7 +80,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141839522,
+    "updatedAt": 1794749125649,
     "densityGPerCup": null
   },
   {
@@ -92,7 +92,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141840498,
+    "updatedAt": 1794749126919,
     "densityGPerCup": null
   },
   {
@@ -104,7 +104,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141841441,
+    "updatedAt": 1794749128050,
     "densityGPerCup": null
   },
   {
@@ -116,7 +116,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141842409,
+    "updatedAt": 1794749129185,
     "densityGPerCup": null
   },
   {
@@ -128,7 +128,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141843436,
+    "updatedAt": 1794749130524,
     "densityGPerCup": null
   },
   {
@@ -140,7 +140,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141844410,
+    "updatedAt": 1794749131850,
     "densityGPerCup": null
   },
   {
@@ -152,7 +152,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141845359,
+    "updatedAt": 1794749132881,
     "densityGPerCup": null
   },
   {
@@ -164,7 +164,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141846335,
+    "updatedAt": 1794749133944,
     "densityGPerCup": null
   },
   {
@@ -176,7 +176,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141847274,
+    "updatedAt": 1794749134987,
     "densityGPerCup": null
   },
   {
@@ -188,19 +188,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141848287,
+    "updatedAt": 1794749136235,
     "densityGPerCup": null
   },
   {
     "id": "eggs-us",
     "name": "eggs",
     "category": "dairy",
-    "priceUsd": 2.98,
+    "priceUsd": 6.79,
     "priceUnit": "dozen",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141849316,
+    "updatedAt": 1794749137530,
     "densityGPerCup": null
   },
   {
@@ -212,7 +212,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141850335,
+    "updatedAt": 1794749139245,
     "densityGPerCup": 244.0
   },
   {
@@ -224,7 +224,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141851369,
+    "updatedAt": 1794749142266,
     "densityGPerCup": 227.0
   },
   {
@@ -236,7 +236,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141852437,
+    "updatedAt": 1794749143480,
     "densityGPerCup": null
   },
   {
@@ -248,19 +248,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141853681,
+    "updatedAt": 1794749144460,
     "densityGPerCup": null
   },
   {
     "id": "parmesan-us",
     "name": "parmesan",
     "category": "dairy",
-    "priceUsd": 11.98,
+    "priceUsd": 5.33,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141854635,
+    "updatedAt": 1794749145533,
     "densityGPerCup": null
   },
   {
@@ -272,7 +272,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141855834,
+    "updatedAt": 1794749146555,
     "densityGPerCup": null
   },
   {
@@ -284,7 +284,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141856814,
+    "updatedAt": 1794749147544,
     "densityGPerCup": 238.0
   },
   {
@@ -296,7 +296,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141857908,
+    "updatedAt": 1794749148601,
     "densityGPerCup": 230.0
   },
   {
@@ -308,7 +308,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141858924,
+    "updatedAt": 1794749149689,
     "densityGPerCup": 245.0
   },
   {
@@ -320,7 +320,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141859948,
+    "updatedAt": 1794749151029,
     "densityGPerCup": null
   },
   {
@@ -332,7 +332,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141860990,
+    "updatedAt": 1794749152094,
     "densityGPerCup": null
   },
   {
@@ -344,7 +344,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141862167,
+    "updatedAt": 1794749153931,
     "densityGPerCup": null
   },
   {
@@ -356,7 +356,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141863252,
+    "updatedAt": 1794749155200,
     "densityGPerCup": 148
   },
   {
@@ -368,7 +368,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141864171,
+    "updatedAt": 1794749156296,
     "densityGPerCup": null
   },
   {
@@ -380,7 +380,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141865192,
+    "updatedAt": 1794749158150,
     "densityGPerCup": null
   },
   {
@@ -392,7 +392,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141866293,
+    "updatedAt": 1794749159605,
     "densityGPerCup": null
   },
   {
@@ -404,7 +404,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141867495,
+    "updatedAt": 1794749161491,
     "densityGPerCup": null
   },
   {
@@ -416,7 +416,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141868498,
+    "updatedAt": 1794749162732,
     "densityGPerCup": null
   },
   {
@@ -428,19 +428,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141869487,
+    "updatedAt": 1794749163848,
     "densityGPerCup": null
   },
   {
     "id": "potato-us",
     "name": "potato",
     "category": "produce",
-    "priceUsd": 0.8,
+    "priceUsd": 2.4,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141870549,
+    "updatedAt": 1794749164906,
     "densityGPerCup": null
   },
   {
@@ -452,7 +452,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141871738,
+    "updatedAt": 1794749166233,
     "densityGPerCup": null
   },
   {
@@ -464,7 +464,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141872822,
+    "updatedAt": 1794749167277,
     "densityGPerCup": null
   },
   {
@@ -476,7 +476,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141873910,
+    "updatedAt": 1794749168316,
     "densityGPerCup": null
   },
   {
@@ -488,7 +488,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141874876,
+    "updatedAt": 1794749169413,
     "densityGPerCup": null
   },
   {
@@ -500,7 +500,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141875882,
+    "updatedAt": 1794749170444,
     "densityGPerCup": null
   },
   {
@@ -512,7 +512,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141877103,
+    "updatedAt": 1794749171427,
     "densityGPerCup": null
   },
   {
@@ -524,7 +524,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141878305,
+    "updatedAt": 1794749172697,
     "densityGPerCup": null
   },
   {
@@ -536,7 +536,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141879228,
+    "updatedAt": 1794749173775,
     "densityGPerCup": null
   },
   {
@@ -548,19 +548,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141880173,
+    "updatedAt": 1794749174765,
     "densityGPerCup": null
   },
   {
     "id": "cabbage-us",
     "name": "cabbage",
     "category": "produce",
-    "priceUsd": 0.99,
+    "priceUsd": 0.89,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141881136,
+    "updatedAt": 1794749175693,
     "densityGPerCup": null
   },
   {
@@ -572,31 +572,31 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141882058,
+    "updatedAt": 1794749176993,
     "densityGPerCup": null
   },
   {
     "id": "cucumber-us",
     "name": "cucumber",
     "category": "produce",
-    "priceUsd": 0.79,
+    "priceUsd": 3.5,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141883028,
+    "updatedAt": 1794749178053,
     "densityGPerCup": null
   },
   {
     "id": "bell-pepper-us",
     "name": "bell pepper",
     "category": "produce",
-    "priceUsd": 3.19,
+    "priceUsd": 0.89,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141883981,
+    "updatedAt": 1794749179031,
     "densityGPerCup": null
   },
   {
@@ -608,7 +608,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141884947,
+    "updatedAt": 1794749180016,
     "densityGPerCup": null
   },
   {
@@ -620,19 +620,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141885938,
+    "updatedAt": 1794749181007,
     "densityGPerCup": null
   },
   {
     "id": "corn-us",
     "name": "corn",
     "category": "produce",
-    "priceUsd": 1,
+    "priceUsd": 4.99,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141887018,
+    "updatedAt": 1794749182623,
     "densityGPerCup": null
   },
   {
@@ -644,7 +644,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141888082,
+    "updatedAt": 1794749183728,
     "densityGPerCup": null
   },
   {
@@ -656,7 +656,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141889036,
+    "updatedAt": 1794749184775,
     "densityGPerCup": null
   },
   {
@@ -668,7 +668,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141889992,
+    "updatedAt": 1794749185745,
     "densityGPerCup": null
   },
   {
@@ -680,7 +680,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141890900,
+    "updatedAt": 1794749186761,
     "densityGPerCup": null
   },
   {
@@ -692,7 +692,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141891933,
+    "updatedAt": 1794749187739,
     "densityGPerCup": 120.0
   },
   {
@@ -704,7 +704,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141893028,
+    "updatedAt": 1794749188849,
     "densityGPerCup": 200.0
   },
   {
@@ -716,7 +716,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141894178,
+    "updatedAt": 1794749189843,
     "densityGPerCup": 220.0
   },
   {
@@ -728,7 +728,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141895249,
+    "updatedAt": 1794749190839,
     "densityGPerCup": 120.0
   },
   {
@@ -740,7 +740,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141896332,
+    "updatedAt": 1794749191796,
     "densityGPerCup": 192.0
   },
   {
@@ -752,7 +752,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141897347,
+    "updatedAt": 1794749192736,
     "densityGPerCup": null
   },
   {
@@ -764,19 +764,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141898485,
+    "updatedAt": 1794749194242,
     "densityGPerCup": 292.0
   },
   {
     "id": "black-pepper-us",
     "name": "black pepper",
     "category": "pantry",
-    "priceUsd": 8.89,
+    "priceUsd": 28.45,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141899568,
+    "updatedAt": 1794749195288,
     "densityGPerCup": 96.0
   },
   {
@@ -788,7 +788,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141900582,
+    "updatedAt": 1794749196431,
     "densityGPerCup": 216.0
   },
   {
@@ -800,7 +800,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141901790,
+    "updatedAt": 1794749197444,
     "densityGPerCup": 218.0
   },
   {
@@ -812,7 +812,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141902782,
+    "updatedAt": 1794749198493,
     "densityGPerCup": 218.0
   },
   {
@@ -824,7 +824,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141903749,
+    "updatedAt": 1794749199520,
     "densityGPerCup": 255.0
   },
   {
@@ -836,7 +836,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141904788,
+    "updatedAt": 1794749200533,
     "densityGPerCup": 185.0
   },
   {
@@ -848,7 +848,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141905876,
+    "updatedAt": 1794749201491,
     "densityGPerCup": 185.0
   },
   {
@@ -860,7 +860,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141906927,
+    "updatedAt": 1794749202926,
     "densityGPerCup": null
   },
   {
@@ -872,7 +872,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141907998,
+    "updatedAt": 1794749204570,
     "densityGPerCup": null
   },
   {
@@ -884,7 +884,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141909191,
+    "updatedAt": 1794749205698,
     "densityGPerCup": null
   },
   {
@@ -896,19 +896,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141910240,
+    "updatedAt": 1794749206730,
     "densityGPerCup": null
   },
   {
     "id": "chicken-broth-us",
     "name": "chicken broth",
     "category": "pantry",
-    "priceUsd": 2.79,
+    "priceUsd": 1.59,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141911299,
+    "updatedAt": 1794749207708,
     "densityGPerCup": null
   },
   {
@@ -920,7 +920,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141912388,
+    "updatedAt": 1794749208656,
     "densityGPerCup": null
   },
   {
@@ -932,7 +932,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141913461,
+    "updatedAt": 1794749209765,
     "densityGPerCup": null
   },
   {
@@ -944,19 +944,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141914683,
+    "updatedAt": 1794749211213,
     "densityGPerCup": 340.0
   },
   {
     "id": "vinegar-us",
     "name": "vinegar",
     "category": "pantry",
-    "priceUsd": 1.79,
+    "priceUsd": 3.99,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141915619,
+    "updatedAt": 1794749212318,
     "densityGPerCup": 240.0
   },
   {
@@ -968,7 +968,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141916834,
+    "updatedAt": 1794749213427,
     "densityGPerCup": null
   },
   {
@@ -980,7 +980,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141917773,
+    "updatedAt": 1794749214641,
     "densityGPerCup": null
   },
   {
@@ -992,7 +992,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141918979,
+    "updatedAt": 1794749215615,
     "densityGPerCup": null
   },
   {
@@ -1004,7 +1004,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141920076,
+    "updatedAt": 1794749216601,
     "densityGPerCup": null
   },
   {
@@ -1016,19 +1016,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141921025,
+    "updatedAt": 1794749217698,
     "densityGPerCup": null
   },
   {
     "id": "cornstarch-us",
     "name": "cornstarch",
     "category": "pantry",
-    "priceUsd": 2.69,
+    "priceUsd": 2.99,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141922273,
+    "updatedAt": 1794749218660,
     "densityGPerCup": 128.0
   },
   {
@@ -1040,7 +1040,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141923235,
+    "updatedAt": 1794749219687,
     "densityGPerCup": 60.0
   },
   {
@@ -1052,7 +1052,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141924456,
+    "updatedAt": 1794749220747,
     "densityGPerCup": 120.0
   },
   {
@@ -1064,19 +1064,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141925534,
+    "updatedAt": 1794749221687,
     "densityGPerCup": 112.0
   },
   {
     "id": "paprika-us",
     "name": "paprika",
     "category": "spice",
-    "priceUsd": 10.0,
+    "priceUsd": 17.02,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141926623,
+    "updatedAt": 1794749222616,
     "densityGPerCup": 108.0
   },
   {
@@ -1088,7 +1088,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141927773,
+    "updatedAt": 1794749223628,
     "densityGPerCup": 35.0
   },
   {
@@ -1100,7 +1100,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141928786,
+    "updatedAt": 1794749224590,
     "densityGPerCup": 14.0
   },
   {
@@ -1112,55 +1112,55 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141929960,
+    "updatedAt": 1794749225610,
     "densityGPerCup": 14.0
   },
   {
     "id": "cinnamon-us",
     "name": "cinnamon",
     "category": "spice",
-    "priceUsd": 10.31,
+    "priceUsd": 15.96,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141931006,
+    "updatedAt": 1794749226735,
     "densityGPerCup": 120.0
   },
   {
     "id": "chili-powder-us",
     "name": "chili powder",
     "category": "spice",
-    "priceUsd": 10.1,
+    "priceUsd": 9.96,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141932082,
+    "updatedAt": 1794749227678,
     "densityGPerCup": 76.0
   },
   {
     "id": "garlic-powder-us",
     "name": "garlic powder",
     "category": "spice",
-    "priceUsd": 10.0,
+    "priceUsd": 11.61,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141933171,
+    "updatedAt": 1794749228773,
     "densityGPerCup": 96.0
   },
   {
     "id": "onion-powder-us",
     "name": "onion powder",
     "category": "spice",
-    "priceUsd": 11.43,
+    "priceUsd": 10.65,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141934236,
+    "updatedAt": 1794749229955,
     "densityGPerCup": 88.0
   },
   {
@@ -1172,7 +1172,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141935416,
+    "updatedAt": 1794749230857,
     "densityGPerCup": 88.0
   },
   {
@@ -1184,7 +1184,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141936357,
+    "updatedAt": 1794749231858,
     "densityGPerCup": 192.0
   },
   {
@@ -1196,7 +1196,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141937325,
+    "updatedAt": 1794749232823,
     "densityGPerCup": 185.0
   },
   {
@@ -1208,7 +1208,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141938333,
+    "updatedAt": 1794749233776,
     "densityGPerCup": 200.0
   },
   {
@@ -1220,7 +1220,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141939399,
+    "updatedAt": 1794749234776,
     "densityGPerCup": null
   },
   {
@@ -1232,7 +1232,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141940373,
+    "updatedAt": 1794749235762,
     "densityGPerCup": null
   },
   {
@@ -1244,7 +1244,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141941372,
+    "updatedAt": 1794749237014,
     "densityGPerCup": null
   },
   {
@@ -1256,7 +1256,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141942330,
+    "updatedAt": 1794749238355,
     "densityGPerCup": null
   },
   {
@@ -1268,7 +1268,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141943305,
+    "updatedAt": 1794749239369,
     "densityGPerCup": null
   },
   {
@@ -1280,7 +1280,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141944216,
+    "updatedAt": 1794749240309,
     "densityGPerCup": null
   },
   {
@@ -1292,7 +1292,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141945193,
+    "updatedAt": 1794749241335,
     "densityGPerCup": null
   },
   {
@@ -1304,7 +1304,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141946104,
+    "updatedAt": 1794749242387,
     "densityGPerCup": null
   },
   {
@@ -1316,7 +1316,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141947080,
+    "updatedAt": 1794749243482,
     "densityGPerCup": null
   },
   {
@@ -1328,7 +1328,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141948039,
+    "updatedAt": 1794749244496,
     "densityGPerCup": null
   },
   {
@@ -1340,7 +1340,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141948952,
+    "updatedAt": 1794749245402,
     "densityGPerCup": null
   },
   {
@@ -1352,7 +1352,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141950083,
+    "updatedAt": 1794749246465,
     "densityGPerCup": 246.0
   },
   {
@@ -1364,7 +1364,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141951053,
+    "updatedAt": 1794749247440,
     "densityGPerCup": null
   },
   {
@@ -1376,7 +1376,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141952104,
+    "updatedAt": 1794749248367,
     "densityGPerCup": 226.0
   },
   {
@@ -1388,7 +1388,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141953078,
+    "updatedAt": 1794749249412,
     "densityGPerCup": 242.0
   },
   {
@@ -1400,7 +1400,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141955198,
+    "updatedAt": 1794749250335,
     "densityGPerCup": null
   },
   {
@@ -1412,7 +1412,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141956411,
+    "updatedAt": 1794749251555,
     "densityGPerCup": null
   },
   {
@@ -1424,7 +1424,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141957415,
+    "updatedAt": 1794749252557,
     "densityGPerCup": null
   },
   {
@@ -1436,19 +1436,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141958457,
+    "updatedAt": 1794749253524,
     "densityGPerCup": 160.0
   },
   {
     "id": "green-beans-us",
     "name": "green beans",
     "category": "produce",
-    "priceUsd": 4.29,
+    "priceUsd": 1.79,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141960528,
+    "updatedAt": 1794749254623,
     "densityGPerCup": null
   },
   {
@@ -1460,7 +1460,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141961451,
+    "updatedAt": 1794749255674,
     "densityGPerCup": null
   },
   {
@@ -1472,7 +1472,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141962354,
+    "updatedAt": 1794749256913,
     "densityGPerCup": null
   },
   {
@@ -1484,7 +1484,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141963395,
+    "updatedAt": 1794749257918,
     "densityGPerCup": null
   },
   {
@@ -1496,7 +1496,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141964314,
+    "updatedAt": 1794749258934,
     "densityGPerCup": null
   },
   {
@@ -1508,19 +1508,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141965262,
+    "updatedAt": 1794749259966,
     "densityGPerCup": null
   },
   {
     "id": "beet-us",
     "name": "beet",
     "category": "produce",
-    "priceUsd": 2.99,
+    "priceUsd": 1.16,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141966204,
+    "updatedAt": 1794749261070,
     "densityGPerCup": null
   },
   {
@@ -1532,7 +1532,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141967160,
+    "updatedAt": 1794749262049,
     "densityGPerCup": null
   },
   {
@@ -1544,7 +1544,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141968178,
+    "updatedAt": 1794749263059,
     "densityGPerCup": null
   },
   {
@@ -1556,7 +1556,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141969200,
+    "updatedAt": 1794749264007,
     "densityGPerCup": null
   },
   {
@@ -1568,7 +1568,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141970289,
+    "updatedAt": 1794749265023,
     "densityGPerCup": 90.0
   },
   {
@@ -1580,7 +1580,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141971213,
+    "updatedAt": 1794749266037,
     "densityGPerCup": 170.0
   },
   {
@@ -1592,19 +1592,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141972221,
+    "updatedAt": 1794749267067,
     "densityGPerCup": null
   },
   {
     "id": "peanut-butter-us",
     "name": "peanut butter",
     "category": "pantry",
-    "priceUsd": 2.29,
+    "priceUsd": 2.59,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141973458,
+    "updatedAt": 1794749269456,
     "densityGPerCup": 258.0
   },
   {
@@ -1616,19 +1616,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141974437,
+    "updatedAt": 1794749270440,
     "densityGPerCup": 322.0
   },
   {
     "id": "vanilla-extract-us",
     "name": "vanilla extract",
     "category": "pantry",
-    "priceUsd": 9.49,
+    "priceUsd": 47.92,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141975475,
+    "updatedAt": 1794749271452,
     "densityGPerCup": 243.0
   },
   {
@@ -1640,7 +1640,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141976945,
+    "updatedAt": 1794749272467,
     "densityGPerCup": 85.0
   },
   {
@@ -1652,7 +1652,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141977977,
+    "updatedAt": 1794749273469,
     "densityGPerCup": 170.0
   },
   {
@@ -1664,7 +1664,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141979056,
+    "updatedAt": 1794749274537,
     "densityGPerCup": 218.0
   },
   {
@@ -1676,7 +1676,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141980120,
+    "updatedAt": 1794749275647,
     "densityGPerCup": null
   },
   {
@@ -1688,7 +1688,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141981186,
+    "updatedAt": 1794749276729,
     "densityGPerCup": null
   },
   {
@@ -1700,7 +1700,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141982205,
+    "updatedAt": 1794749277766,
     "densityGPerCup": null
   },
   {
@@ -1712,7 +1712,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141983303,
+    "updatedAt": 1794749278775,
     "densityGPerCup": null
   },
   {
@@ -1724,7 +1724,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141984258,
+    "updatedAt": 1794749279718,
     "densityGPerCup": null
   },
   {
@@ -1736,7 +1736,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141985343,
+    "updatedAt": 1794749280658,
     "densityGPerCup": null
   },
   {
@@ -1748,31 +1748,31 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141986519,
+    "updatedAt": 1794749281692,
     "densityGPerCup": 96.0
   },
   {
     "id": "curry-powder-us",
     "name": "curry powder",
     "category": "spice",
-    "priceUsd": 37.55,
+    "priceUsd": 39.41,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141987570,
+    "updatedAt": 1794749282673,
     "densityGPerCup": 90.0
   },
   {
     "id": "smoked-paprika-us",
     "name": "smoked paprika",
     "category": "spice",
-    "priceUsd": 64.69,
+    "priceUsd": 78.91,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141988596,
+    "updatedAt": 1794749283612,
     "densityGPerCup": 108.0
   },
   {
@@ -1784,19 +1784,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141989679,
+    "updatedAt": 1794749284663,
     "densityGPerCup": 48.0
   },
   {
     "id": "italian-seasoning-us",
     "name": "italian seasoning",
     "category": "spice",
-    "priceUsd": 33.33,
+    "priceUsd": 79.8,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141990740,
+    "updatedAt": 1794749285688,
     "densityGPerCup": 32.0
   },
   {
@@ -1808,7 +1808,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141991747,
+    "updatedAt": 1794749286661,
     "densityGPerCup": 14.0
   },
   {
@@ -1820,19 +1820,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141992909,
+    "updatedAt": 1794749287662,
     "densityGPerCup": 112.0
   },
   {
     "id": "fish-sauce-us",
     "name": "fish sauce",
     "category": "sauce",
-    "priceUsd": 3.99,
+    "priceUsd": 5.99,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141993896,
+    "updatedAt": 1794749288953,
     "densityGPerCup": null
   },
   {
@@ -1844,7 +1844,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141994866,
+    "updatedAt": 1794749289869,
     "densityGPerCup": null
   },
   {
@@ -1856,7 +1856,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141995770,
+    "updatedAt": 1794749290819,
     "densityGPerCup": null
   },
   {
@@ -1868,19 +1868,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141997073,
+    "updatedAt": 1794749292033,
     "densityGPerCup": null
   },
   {
     "id": "sriracha-us",
     "name": "sriracha",
     "category": "sauce",
-    "priceUsd": 6.29,
+    "priceUsd": 4.99,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141997976,
+    "updatedAt": 1794749292977,
     "densityGPerCup": null
   },
   {
@@ -1892,7 +1892,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141998976,
+    "updatedAt": 1794749293928,
     "densityGPerCup": 270.0
   },
   {
@@ -1904,19 +1904,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794141999970,
+    "updatedAt": 1794749294940,
     "densityGPerCup": 146.0
   },
   {
     "id": "almonds-us",
     "name": "almonds",
     "category": "nut",
-    "priceUsd": 10.49,
+    "priceUsd": 9.98,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142000979,
+    "updatedAt": 1794749296049,
     "densityGPerCup": 143.0
   },
   {
@@ -1928,31 +1928,31 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142001973,
+    "updatedAt": 1794749297023,
     "densityGPerCup": 117.0
   },
   {
     "id": "sesame-seeds-us",
     "name": "sesame seeds",
     "category": "nut",
-    "priceUsd": 22.57,
+    "priceUsd": 24.57,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142002999,
+    "updatedAt": 1794749297990,
     "densityGPerCup": 144.0
   },
   {
     "id": "beef-brisket-us",
     "name": "beef brisket",
     "category": "meat",
-    "priceUsd": 6.99,
+    "priceUsd": 17.99,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142003925,
+    "updatedAt": 1794749299006,
     "densityGPerCup": null
   },
   {
@@ -1964,7 +1964,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142004884,
+    "updatedAt": 1794749299930,
     "densityGPerCup": null
   },
   {
@@ -1976,7 +1976,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142005916,
+    "updatedAt": 1794749300954,
     "densityGPerCup": null
   },
   {
@@ -1988,7 +1988,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142006897,
+    "updatedAt": 1794749301938,
     "densityGPerCup": null
   },
   {
@@ -2000,7 +2000,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142007851,
+    "updatedAt": 1794749302937,
     "densityGPerCup": null
   },
   {
@@ -2012,7 +2012,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142008822,
+    "updatedAt": 1794749304038,
     "densityGPerCup": null
   },
   {
@@ -2024,7 +2024,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142009792,
+    "updatedAt": 1794749305217,
     "densityGPerCup": null
   },
   {
@@ -2036,19 +2036,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142010810,
+    "updatedAt": 1794749306319,
     "densityGPerCup": null
   },
   {
     "id": "lobster-us",
     "name": "lobster",
     "category": "seafood",
-    "priceUsd": 38.38,
+    "priceUsd": 6.99,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142011841,
+    "updatedAt": 1794749307349,
     "densityGPerCup": null
   },
   {
@@ -2060,7 +2060,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142012760,
+    "updatedAt": 1794749308342,
     "densityGPerCup": null
   },
   {
@@ -2072,7 +2072,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142013673,
+    "updatedAt": 1794749309323,
     "densityGPerCup": null
   },
   {
@@ -2084,7 +2084,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142014612,
+    "updatedAt": 1794749310378,
     "densityGPerCup": null
   },
   {
@@ -2096,7 +2096,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142015550,
+    "updatedAt": 1794749311432,
     "densityGPerCup": null
   },
   {
@@ -2108,7 +2108,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142016563,
+    "updatedAt": 1794749312404,
     "densityGPerCup": null
   },
   {
@@ -2120,7 +2120,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142017710,
+    "updatedAt": 1794749313319,
     "densityGPerCup": null
   },
   {
@@ -2132,7 +2132,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142018763,
+    "updatedAt": 1794749314536,
     "densityGPerCup": null
   },
   {
@@ -2144,7 +2144,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142019694,
+    "updatedAt": 1794749315567,
     "densityGPerCup": null
   },
   {
@@ -2156,31 +2156,31 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142020776,
+    "updatedAt": 1794749316748,
     "densityGPerCup": null
   },
   {
     "id": "blue-cheese-us",
     "name": "blue cheese",
     "category": "dairy",
-    "priceUsd": 14.99,
+    "priceUsd": 23.6,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142021748,
+    "updatedAt": 1794749317829,
     "densityGPerCup": null
   },
   {
     "id": "american-cheese-us",
     "name": "american cheese",
     "category": "dairy",
-    "priceUsd": 6.67,
+    "priceUsd": 11.98,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142022903,
+    "updatedAt": 1794749318866,
     "densityGPerCup": null
   },
   {
@@ -2192,7 +2192,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142023829,
+    "updatedAt": 1794749319886,
     "densityGPerCup": null
   },
   {
@@ -2204,7 +2204,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142024838,
+    "updatedAt": 1794749320916,
     "densityGPerCup": 245.0
   },
   {
@@ -2216,7 +2216,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142025750,
+    "updatedAt": 1794749321839,
     "densityGPerCup": 218.0
   },
   {
@@ -2228,7 +2228,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142026663,
+    "updatedAt": 1794749322777,
     "densityGPerCup": 236.0
   },
   {
@@ -2240,7 +2240,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142027622,
+    "updatedAt": 1794749323684,
     "densityGPerCup": null
   },
   {
@@ -2252,7 +2252,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142029730,
+    "updatedAt": 1794749324670,
     "densityGPerCup": null
   },
   {
@@ -2264,19 +2264,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142030718,
+    "updatedAt": 1794749325729,
     "densityGPerCup": null
   },
   {
     "id": "cauliflower-us",
     "name": "cauliflower",
     "category": "produce",
-    "priceUsd": 4.49,
+    "priceUsd": 5,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142031672,
+    "updatedAt": 1794749326761,
     "densityGPerCup": null
   },
   {
@@ -2288,7 +2288,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142032881,
+    "updatedAt": 1794749327790,
     "densityGPerCup": null
   },
   {
@@ -2300,7 +2300,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142033870,
+    "updatedAt": 1794749328759,
     "densityGPerCup": null
   },
   {
@@ -2312,7 +2312,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142034774,
+    "updatedAt": 1794749330024,
     "densityGPerCup": null
   },
   {
@@ -2324,7 +2324,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142035789,
+    "updatedAt": 1794749331017,
     "densityGPerCup": null
   },
   {
@@ -2336,7 +2336,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142036738,
+    "updatedAt": 1794749332005,
     "densityGPerCup": null
   },
   {
@@ -2348,7 +2348,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142037821,
+    "updatedAt": 1794749332958,
     "densityGPerCup": null
   },
   {
@@ -2360,7 +2360,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142038876,
+    "updatedAt": 1794749334941,
     "densityGPerCup": null
   },
   {
@@ -2372,7 +2372,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142039787,
+    "updatedAt": 1794749335976,
     "densityGPerCup": null
   },
   {
@@ -2384,7 +2384,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142040741,
+    "updatedAt": 1794749336933,
     "densityGPerCup": null
   },
   {
@@ -2396,7 +2396,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142041977,
+    "updatedAt": 1794749337895,
     "densityGPerCup": null
   },
   {
@@ -2408,7 +2408,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142042931,
+    "updatedAt": 1794749338862,
     "densityGPerCup": null
   },
   {
@@ -2420,7 +2420,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142043959,
+    "updatedAt": 1794749340104,
     "densityGPerCup": null
   },
   {
@@ -2432,19 +2432,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142044916,
+    "updatedAt": 1794749341324,
     "densityGPerCup": null
   },
   {
     "id": "pear-us",
     "name": "pear",
     "category": "produce",
-    "priceUsd": 2.69,
+    "priceUsd": 5,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142045928,
+    "updatedAt": 1794749342374,
     "densityGPerCup": null
   },
   {
@@ -2456,7 +2456,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142046892,
+    "updatedAt": 1794749343414,
     "densityGPerCup": null
   },
   {
@@ -2468,7 +2468,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142047950,
+    "updatedAt": 1794749344375,
     "densityGPerCup": null
   },
   {
@@ -2480,7 +2480,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142048869,
+    "updatedAt": 1794749345271,
     "densityGPerCup": null
   },
   {
@@ -2492,7 +2492,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142049846,
+    "updatedAt": 1794749346650,
     "densityGPerCup": null
   },
   {
@@ -2504,19 +2504,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142050840,
+    "updatedAt": 1794749347760,
     "densityGPerCup": null
   },
   {
     "id": "dried-cranberry-us",
     "name": "dried cranberries",
     "category": "produce",
-    "priceUsd": 6.11,
+    "priceUsd": 7.33,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142051818,
+    "updatedAt": 1794749348690,
     "densityGPerCup": 130.0
   },
   {
@@ -2528,7 +2528,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142052797,
+    "updatedAt": 1794749349817,
     "densityGPerCup": 165.0
   },
   {
@@ -2540,7 +2540,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142053747,
+    "updatedAt": 1794749350778,
     "densityGPerCup": 178.0
   },
   {
@@ -2552,7 +2552,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142054672,
+    "updatedAt": 1794749351823,
     "densityGPerCup": null
   },
   {
@@ -2564,7 +2564,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142055630,
+    "updatedAt": 1794749352828,
     "densityGPerCup": null
   },
   {
@@ -2576,7 +2576,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142056566,
+    "updatedAt": 1794749356844,
     "densityGPerCup": 155.0
   },
   {
@@ -2588,7 +2588,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142057555,
+    "updatedAt": 1794749357930,
     "densityGPerCup": 54.0
   },
   {
@@ -2600,7 +2600,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142058623,
+    "updatedAt": 1794749358907,
     "densityGPerCup": 120.0
   },
   {
@@ -2612,7 +2612,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142059627,
+    "updatedAt": 1794749359864,
     "densityGPerCup": 96.0
   },
   {
@@ -2624,19 +2624,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142060734,
+    "updatedAt": 1794749360921,
     "densityGPerCup": 138.0
   },
   {
     "id": "couscous-us",
     "name": "couscous",
     "category": "pantry",
-    "priceUsd": 8.11,
+    "priceUsd": 8.25,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142061719,
+    "updatedAt": 1794749361858,
     "densityGPerCup": 173.0
   },
   {
@@ -2648,7 +2648,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142062737,
+    "updatedAt": 1794749362912,
     "densityGPerCup": 184.0
   },
   {
@@ -2660,7 +2660,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142063718,
+    "updatedAt": 1794749364118,
     "densityGPerCup": 200.0
   },
   {
@@ -2672,7 +2672,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142064988,
+    "updatedAt": 1794749365147,
     "densityGPerCup": null
   },
   {
@@ -2684,55 +2684,55 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142065959,
+    "updatedAt": 1794749366173,
     "densityGPerCup": null
   },
   {
     "id": "pita-bread-us",
     "name": "pita bread",
     "category": "pantry",
-    "priceUsd": 2.99,
+    "priceUsd": 3.29,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142067115,
+    "updatedAt": 1794749367294,
     "densityGPerCup": null
   },
   {
     "id": "naan-us",
     "name": "naan",
     "category": "pantry",
-    "priceUsd": 3.99,
+    "priceUsd": 4.99,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142068347,
+    "updatedAt": 1794749368387,
     "densityGPerCup": null
   },
   {
     "id": "corn-tortilla-us",
     "name": "corn tortilla",
     "category": "pantry",
-    "priceUsd": 2.59,
+    "priceUsd": 2.89,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142069429,
+    "updatedAt": 1794749369446,
     "densityGPerCup": null
   },
   {
     "id": "coconut-flakes-us",
     "name": "coconut flakes",
     "category": "pantry",
-    "priceUsd": 8.98,
+    "priceUsd": 5.69,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142070596,
+    "updatedAt": 1794749370443,
     "densityGPerCup": 93.0
   },
   {
@@ -2744,7 +2744,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142071979,
+    "updatedAt": 1794749371451,
     "densityGPerCup": null
   },
   {
@@ -2756,7 +2756,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1793537010268,
+    "updatedAt": 1794749372525,
     "densityGPerCup": null
   },
   {
@@ -2768,7 +2768,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142074106,
+    "updatedAt": 1794749373559,
     "densityGPerCup": null
   },
   {
@@ -2780,7 +2780,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142075060,
+    "updatedAt": 1794749374519,
     "densityGPerCup": null
   },
   {
@@ -2792,7 +2792,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142076019,
+    "updatedAt": 1794749375543,
     "densityGPerCup": null
   },
   {
@@ -2804,7 +2804,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142076979,
+    "updatedAt": 1794749376743,
     "densityGPerCup": null
   },
   {
@@ -2816,7 +2816,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142078276,
+    "updatedAt": 1794749377797,
     "densityGPerCup": 328.0
   },
   {
@@ -2828,19 +2828,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142079706,
+    "updatedAt": 1794749378983,
     "densityGPerCup": 328.0
   },
   {
     "id": "avocado-oil-us",
     "name": "avocado oil",
     "category": "pantry",
-    "priceUsd": 13.99,
+    "priceUsd": 14.29,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142080724,
+    "updatedAt": 1794749379941,
     "densityGPerCup": 218.0
   },
   {
@@ -2852,19 +2852,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142081740,
+    "updatedAt": 1794749381207,
     "densityGPerCup": 218.0
   },
   {
     "id": "peanut-oil-us",
     "name": "peanut oil",
     "category": "pantry",
-    "priceUsd": 21.49,
+    "priceUsd": 54.99,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142082692,
+    "updatedAt": 1794749382196,
     "densityGPerCup": 218.0
   },
   {
@@ -2876,7 +2876,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142083634,
+    "updatedAt": 1794749383439,
     "densityGPerCup": null
   },
   {
@@ -2888,7 +2888,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142084576,
+    "updatedAt": 1794749384479,
     "densityGPerCup": null
   },
   {
@@ -2900,7 +2900,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142085504,
+    "updatedAt": 1794749385565,
     "densityGPerCup": null
   },
   {
@@ -2912,7 +2912,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142086430,
+    "updatedAt": 1794749386572,
     "densityGPerCup": null
   },
   {
@@ -2924,7 +2924,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142087338,
+    "updatedAt": 1794749387577,
     "densityGPerCup": null
   },
   {
@@ -2936,7 +2936,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142088288,
+    "updatedAt": 1794749388556,
     "densityGPerCup": null
   },
   {
@@ -2948,7 +2948,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142089621,
+    "updatedAt": 1794749389457,
     "densityGPerCup": null
   },
   {
@@ -2960,7 +2960,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142090580,
+    "updatedAt": 1794749390399,
     "densityGPerCup": null
   },
   {
@@ -2972,7 +2972,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142091550,
+    "updatedAt": 1794749391516,
     "densityGPerCup": null
   },
   {
@@ -2984,7 +2984,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142092563,
+    "updatedAt": 1794749392545,
     "densityGPerCup": null
   },
   {
@@ -2996,7 +2996,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142093509,
+    "updatedAt": 1794749393505,
     "densityGPerCup": null
   },
   {
@@ -3008,7 +3008,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142094612,
+    "updatedAt": 1794749394419,
     "densityGPerCup": 104.0
   },
   {
@@ -3020,7 +3020,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142095663,
+    "updatedAt": 1794749395368,
     "densityGPerCup": null
   },
   {
@@ -3032,7 +3032,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142096632,
+    "updatedAt": 1794749396317,
     "densityGPerCup": null
   },
   {
@@ -3044,7 +3044,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142097566,
+    "updatedAt": 1794749397323,
     "densityGPerCup": null
   },
   {
@@ -3056,7 +3056,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142098527,
+    "updatedAt": 1794749398238,
     "densityGPerCup": 275.0
   },
   {
@@ -3080,7 +3080,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142100746,
+    "updatedAt": 1794749400455,
     "densityGPerCup": null
   },
   {
@@ -3092,7 +3092,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142101800,
+    "updatedAt": 1794749401761,
     "densityGPerCup": null
   },
   {
@@ -3104,7 +3104,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142102880,
+    "updatedAt": 1794749402872,
     "densityGPerCup": null
   },
   {
@@ -3116,7 +3116,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142103918,
+    "updatedAt": 1794749403869,
     "densityGPerCup": 258.0
   },
   {
@@ -3128,7 +3128,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142105058,
+    "updatedAt": 1794749404791,
     "densityGPerCup": 332.0
   },
   {
@@ -3140,7 +3140,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142106029,
+    "updatedAt": 1794749405719,
     "densityGPerCup": null
   },
   {
@@ -3152,7 +3152,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142106955,
+    "updatedAt": 1794749406698,
     "densityGPerCup": null
   },
   {
@@ -3164,7 +3164,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142107877,
+    "updatedAt": 1794749407617,
     "densityGPerCup": 96.0
   },
   {
@@ -3176,7 +3176,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142109057,
+    "updatedAt": 1794749408535,
     "densityGPerCup": 88.0
   },
   {
@@ -3188,7 +3188,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142110159,
+    "updatedAt": 1794749409442,
     "densityGPerCup": 80.0
   },
   {
@@ -3200,7 +3200,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142111200,
+    "updatedAt": 1794749410348,
     "densityGPerCup": 88.0
   },
   {
@@ -3212,7 +3212,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142112251,
+    "updatedAt": 1794749411255,
     "densityGPerCup": 80.0
   },
   {
@@ -3224,7 +3224,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142113274,
+    "updatedAt": 1794749412142,
     "densityGPerCup": 96.0
   },
   {
@@ -3236,7 +3236,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142114516,
+    "updatedAt": 1794749413073,
     "densityGPerCup": 88.0
   },
   {
@@ -3260,7 +3260,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142116959,
+    "updatedAt": 1794749415027,
     "densityGPerCup": 76.0
   },
   {
@@ -3284,7 +3284,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142119261,
+    "updatedAt": 1794749417134,
     "densityGPerCup": 128.0
   },
   {
@@ -3296,7 +3296,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142120306,
+    "updatedAt": 1794749418210,
     "densityGPerCup": 120.0
   },
   {
@@ -3308,7 +3308,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142121266,
+    "updatedAt": 1794749419155,
     "densityGPerCup": 40.0
   },
   {
@@ -3320,7 +3320,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142122266,
+    "updatedAt": 1794749420064,
     "densityGPerCup": 32.0
   },
   {
@@ -3332,7 +3332,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142123293,
+    "updatedAt": 1794749420951,
     "densityGPerCup": 40.0
   },
   {
@@ -3344,7 +3344,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142124379,
+    "updatedAt": 1794749421913,
     "densityGPerCup": 130.0
   },
   {
@@ -3356,7 +3356,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142125374,
+    "updatedAt": 1794749423046,
     "densityGPerCup": 109.0
   },
   {
@@ -3368,7 +3368,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142126425,
+    "updatedAt": 1794749424069,
     "densityGPerCup": 136.0
   },
   {
@@ -3380,19 +3380,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142127406,
+    "updatedAt": 1794749425034,
     "densityGPerCup": 123.0
   },
   {
     "id": "macadamia-us",
     "name": "macadamia nuts",
     "category": "nut",
-    "priceUsd": 10.65,
+    "priceUsd": 21.96,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142128366,
+    "updatedAt": 1794749426007,
     "densityGPerCup": 134.0
   },
   {
@@ -3404,19 +3404,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142129284,
+    "updatedAt": 1794749426936,
     "densityGPerCup": 160.0
   },
   {
     "id": "flaxseeds-us",
     "name": "flaxseeds",
     "category": "nut",
-    "priceUsd": 4.59,
+    "priceUsd": 4.39,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142130204,
+    "updatedAt": 1794749427838,
     "densityGPerCup": 149.0
   },
   {
@@ -3428,7 +3428,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142131155,
+    "updatedAt": 1794749428832,
     "densityGPerCup": 128.0
   },
   {
@@ -3440,7 +3440,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142132175,
+    "updatedAt": 1794749429890,
     "densityGPerCup": 129.0
   },
   {
@@ -3452,19 +3452,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142133242,
+    "updatedAt": 1794749430937,
     "densityGPerCup": 160.0
   },
   {
     "id": "pinto-beans-us",
     "name": "pinto beans",
     "category": "legume",
-    "priceUsd": 1.03,
+    "priceUsd": 1.64,
     "priceUnit": "lb",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142134435,
+    "updatedAt": 1794749431953,
     "densityGPerCup": 193.0
   },
   {
@@ -3476,7 +3476,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142135618,
+    "updatedAt": 1794749432947,
     "densityGPerCup": 185.0
   },
   {
@@ -3488,7 +3488,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142137982,
+    "updatedAt": 1794749433872,
     "densityGPerCup": 182.0
   },
   {
@@ -3500,7 +3500,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142138938,
+    "updatedAt": 1794749434794,
     "densityGPerCup": 196.0
   },
   {
@@ -3512,7 +3512,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142139890,
+    "updatedAt": 1794749435828,
     "densityGPerCup": 192.0
   },
   {
@@ -3524,7 +3524,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142141007,
+    "updatedAt": 1794749436716,
     "densityGPerCup": null
   },
   {
@@ -3548,7 +3548,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142142892,
+    "updatedAt": 1794749438708,
     "densityGPerCup": null
   },
   {
@@ -3560,7 +3560,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142143849,
+    "updatedAt": 1794749439744,
     "densityGPerCup": null
   },
   {
@@ -3572,7 +3572,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142144837,
+    "updatedAt": 1794749440891,
     "densityGPerCup": null
   },
   {
@@ -3584,7 +3584,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142145827,
+    "updatedAt": 1794749442029,
     "densityGPerCup": null
   },
   {
@@ -3608,7 +3608,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142147887,
+    "updatedAt": 1794749443984,
     "densityGPerCup": null
   },
   {
@@ -3620,7 +3620,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142148800,
+    "updatedAt": 1794749444893,
     "densityGPerCup": null
   },
   {
@@ -3653,7 +3653,7 @@
     "priceUsd": 7.49,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142151888,
+    "updatedAt": 1794749448203,
     "densityGPerCup": null,
     "category": "pantry"
   },
@@ -3664,7 +3664,7 @@
     "priceUsd": 4.29,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142152924,
+    "updatedAt": 1794749449113,
     "densityGPerCup": null,
     "category": "pantry"
   },
@@ -3675,7 +3675,7 @@
     "priceUsd": 3.59,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142153909,
+    "updatedAt": 1794749450175,
     "densityGPerCup": null,
     "category": "meat"
   },
@@ -3686,7 +3686,7 @@
     "priceUsd": 1.33,
     "priceUnit": "lb",
     "source": "kroger",
-    "updatedAt": 1794142155065,
+    "updatedAt": 1794749451236,
     "densityGPerCup": null,
     "category": "pantry"
   },
@@ -3697,7 +3697,7 @@
     "priceUsd": 2.49,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142155967,
+    "updatedAt": 1794749452249,
     "densityGPerCup": null,
     "category": "sauce"
   },
@@ -3708,7 +3708,7 @@
     "priceUsd": 5.49,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142157019,
+    "updatedAt": 1794749453344,
     "densityGPerCup": null,
     "category": "pantry"
   },
@@ -3730,7 +3730,7 @@
     "priceUsd": 4.8,
     "priceUnit": "lb",
     "source": "kroger",
-    "updatedAt": 1794142159066,
+    "updatedAt": 1794749455369,
     "densityGPerCup": null,
     "category": "produce"
   },
@@ -3741,7 +3741,7 @@
     "priceUsd": 2.29,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142160761,
+    "updatedAt": 1794749456394,
     "densityGPerCup": null,
     "category": "pantry"
   },
@@ -3752,7 +3752,7 @@
     "priceUsd": 4.99,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142162001,
+    "updatedAt": 1794749457343,
     "densityGPerCup": null,
     "category": "sauce"
   },
@@ -3760,10 +3760,10 @@
     "id": "shortening-us",
     "name": "shortening",
     "countryCode": "US",
-    "priceUsd": 6.49,
+    "priceUsd": 6.79,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142163047,
+    "updatedAt": 1794749458317,
     "densityGPerCup": 218.0,
     "category": "pantry"
   },
@@ -3774,7 +3774,7 @@
     "priceUsd": 2.89,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142163968,
+    "updatedAt": 1794749459297,
     "densityGPerCup": 218.0,
     "category": "pantry"
   },
@@ -3796,7 +3796,7 @@
     "priceUsd": 3.99,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142165891,
+    "updatedAt": 1794749461885,
     "densityGPerCup": 28.0,
     "category": "pantry"
   },
@@ -3807,7 +3807,7 @@
     "priceUsd": 1.99,
     "priceUnit": "lb",
     "source": "kroger",
-    "updatedAt": 1794142166869,
+    "updatedAt": 1794749462954,
     "densityGPerCup": null,
     "category": "produce"
   },
@@ -3815,10 +3815,10 @@
     "id": "chili-pepper-us",
     "name": "chili pepper",
     "countryCode": "US",
-    "priceUsd": 4.07,
+    "priceUsd": 4.69,
     "priceUnit": "lb",
     "source": "kroger",
-    "updatedAt": 1794142167837,
+    "updatedAt": 1794749463886,
     "densityGPerCup": null,
     "category": "produce"
   },
@@ -3829,7 +3829,7 @@
     "priceUsd": 1.89,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142168899,
+    "updatedAt": 1794749465073,
     "densityGPerCup": null,
     "category": "pantry"
   },
@@ -3840,7 +3840,7 @@
     "priceUsd": 1.89,
     "priceUnit": "each",
     "source": "kroger",
-    "updatedAt": 1794142169918,
+    "updatedAt": 1794749466340,
     "densityGPerCup": null,
     "category": "pantry"
   },
@@ -3862,7 +3862,7 @@
     "priceUsd": 3.99,
     "priceUnit": "lb",
     "source": "kroger",
-    "updatedAt": 1794142171965,
+    "updatedAt": 1794749468322,
     "densityGPerCup": null,
     "category": "produce"
   },
@@ -3875,7 +3875,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142172906,
+    "updatedAt": 1794749469225,
     "densityGPerCup": null
   },
   {
@@ -3899,19 +3899,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142174799,
+    "updatedAt": 1794749471073,
     "densityGPerCup": null
   },
   {
     "id": "ssamjang-us",
     "name": "ssamjang",
     "category": "condiment",
-    "priceUsd": 2.39,
+    "priceUsd": 7.99,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142175865,
+    "updatedAt": 1794749472063,
     "densityGPerCup": null
   },
   {
@@ -3923,7 +3923,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142176790,
+    "updatedAt": 1794749473084,
     "densityGPerCup": null
   },
   {
@@ -3983,7 +3983,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142182398,
+    "updatedAt": 1794749477930,
     "densityGPerCup": null
   },
   {
@@ -3995,7 +3995,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142183298,
+    "updatedAt": 1794749478826,
     "densityGPerCup": null
   },
   {
@@ -4007,7 +4007,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142184257,
+    "updatedAt": 1794749479775,
     "densityGPerCup": null
   },
   {
@@ -4019,7 +4019,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142185154,
+    "updatedAt": 1794749480681,
     "densityGPerCup": null
   },
   {
@@ -4031,7 +4031,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142186157,
+    "updatedAt": 1794749481635,
     "densityGPerCup": null
   },
   {
@@ -4074,12 +4074,12 @@
     "id": "kombu-us",
     "name": "kombu",
     "category": "pantry",
-    "priceUsd": 3.49,
+    "priceUsd": 3.69,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142190088,
+    "updatedAt": 1794749485619,
     "densityGPerCup": null
   },
   {
@@ -4091,7 +4091,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142190983,
+    "updatedAt": 1794749486532,
     "densityGPerCup": null
   },
   {
@@ -4103,7 +4103,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142191897,
+    "updatedAt": 1794749487510,
     "densityGPerCup": null
   },
   {
@@ -4139,7 +4139,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142194665,
+    "updatedAt": 1794749491449,
     "densityGPerCup": null
   },
   {
@@ -4151,7 +4151,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142195610,
+    "updatedAt": 1794749492437,
     "densityGPerCup": null
   },
   {
@@ -4199,7 +4199,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142199500,
+    "updatedAt": 1794749496612,
     "densityGPerCup": null
   },
   {
@@ -4223,7 +4223,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142201518,
+    "updatedAt": 1794749498961,
     "densityGPerCup": null
   },
   {
@@ -4235,7 +4235,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142202605,
+    "updatedAt": 1794749499969,
     "densityGPerCup": null
   },
   {
@@ -4259,7 +4259,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142204790,
+    "updatedAt": 1794749502511,
     "densityGPerCup": null
   },
   {
@@ -4295,7 +4295,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142207764,
+    "updatedAt": 1794749505855,
     "densityGPerCup": null
   },
   {
@@ -4367,7 +4367,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142214676,
+    "updatedAt": 1794749512721,
     "densityGPerCup": null
   },
   {
@@ -4379,7 +4379,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142215812,
+    "updatedAt": 1794749514185,
     "densityGPerCup": null
   },
   {
@@ -4439,7 +4439,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142221134,
+    "updatedAt": 1794749520314,
     "densityGPerCup": null
   },
   {
@@ -4463,7 +4463,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142223202,
+    "updatedAt": 1794749522337,
     "densityGPerCup": null
   },
   {
@@ -4487,7 +4487,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142225674,
+    "updatedAt": 1794749524781,
     "densityGPerCup": null
   },
   {
@@ -4535,7 +4535,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142229473,
+    "updatedAt": 1794749529609,
     "densityGPerCup": null
   },
   {
@@ -4583,7 +4583,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142233365,
+    "updatedAt": 1794749533487,
     "densityGPerCup": null
   },
   {
@@ -4602,12 +4602,12 @@
     "id": "coconut-vinegar-us",
     "name": "coconut vinegar",
     "category": "condiment",
-    "priceUsd": 6.49,
+    "priceUsd": 5.49,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142235665,
+    "updatedAt": 1794749536174,
     "densityGPerCup": null
   },
   {
@@ -4619,7 +4619,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142236561,
+    "updatedAt": 1794749537149,
     "densityGPerCup": null
   },
   {
@@ -4655,19 +4655,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142239324,
+    "updatedAt": 1794749540374,
     "densityGPerCup": null
   },
   {
     "id": "green-curry-paste-us",
     "name": "green curry paste",
     "category": "condiment",
-    "priceUsd": 3.59,
+    "priceUsd": 5.99,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142240255,
+    "updatedAt": 1794749541424,
     "densityGPerCup": null
   },
   {
@@ -4679,7 +4679,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142241185,
+    "updatedAt": 1794749542369,
     "densityGPerCup": null
   },
   {
@@ -4715,7 +4715,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142244249,
+    "updatedAt": 1794749545699,
     "densityGPerCup": null
   },
   {
@@ -4727,7 +4727,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142245179,
+    "updatedAt": 1794749546643,
     "densityGPerCup": null
   },
   {
@@ -4751,7 +4751,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142247093,
+    "updatedAt": 1794749548747,
     "densityGPerCup": null
   },
   {
@@ -4763,19 +4763,19 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142248047,
+    "updatedAt": 1794749549790,
     "densityGPerCup": null
   },
   {
     "id": "sticky-rice-us",
     "name": "sticky rice",
     "category": "pantry",
-    "priceUsd": 3.19,
+    "priceUsd": 2.39,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142248995,
+    "updatedAt": 1794749550761,
     "densityGPerCup": null
   },
   {
@@ -4787,7 +4787,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142250052,
+    "updatedAt": 1794749551770,
     "densityGPerCup": null
   },
   {
@@ -4811,7 +4811,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142251973,
+    "updatedAt": 1794749554205,
     "densityGPerCup": null
   },
   {
@@ -4823,7 +4823,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142253159,
+    "updatedAt": 1794749555436,
     "densityGPerCup": null
   },
   {
@@ -4835,7 +4835,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142254079,
+    "updatedAt": 1794749556650,
     "densityGPerCup": null
   },
   {
@@ -4847,7 +4847,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142255010,
+    "updatedAt": 1794749557552,
     "densityGPerCup": null
   },
   {
@@ -4859,7 +4859,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142256090,
+    "updatedAt": 1794749558839,
     "densityGPerCup": null
   },
   {
@@ -4871,7 +4871,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142256985,
+    "updatedAt": 1794749559834,
     "densityGPerCup": null
   },
   {
@@ -4883,7 +4883,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142258152,
+    "updatedAt": 1794749561125,
     "densityGPerCup": null
   },
   {
@@ -4895,7 +4895,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142259134,
+    "updatedAt": 1794749562132,
     "densityGPerCup": null
   },
   {
@@ -4907,7 +4907,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142260095,
+    "updatedAt": 1794749563105,
     "densityGPerCup": null
   },
   {
@@ -4919,7 +4919,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142260987,
+    "updatedAt": 1794749564027,
     "densityGPerCup": null
   },
   {
@@ -4943,7 +4943,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142263637,
+    "updatedAt": 1794749565933,
     "densityGPerCup": null
   },
   {
@@ -4967,7 +4967,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142265547,
+    "updatedAt": 1794749568000,
     "densityGPerCup": null
   },
   {
@@ -4991,7 +4991,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142267469,
+    "updatedAt": 1794749569908,
     "densityGPerCup": null
   },
   {
@@ -5010,12 +5010,12 @@
     "id": "korean-rice-us",
     "name": "korean rice",
     "category": "pantry",
-    "priceUsd": 3.19,
+    "priceUsd": 4.69,
     "priceUnit": "each",
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142269390,
+    "updatedAt": 1794749571939,
     "densityGPerCup": null
   },
   {
@@ -5027,7 +5027,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142270330,
+    "updatedAt": 1794749572854,
     "densityGPerCup": null
   },
   {
@@ -5051,7 +5051,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142272187,
+    "updatedAt": 1794749574910,
     "densityGPerCup": null
   },
   {
@@ -5075,7 +5075,7 @@
     "countryCode": "US",
     "city": null,
     "source": "kroger",
-    "updatedAt": 1794142274131,
+    "updatedAt": 1794749577074,
     "densityGPerCup": null
   },
   {
